@@ -1,0 +1,1 @@
+Como realizar a integra‡Æo entre o meu reposit¢rio local e o remoto.
